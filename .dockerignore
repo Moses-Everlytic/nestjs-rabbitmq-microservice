@@ -1,0 +1,16 @@
+# Versionibg and metadata
+.git
+.gitignore
+.dockerignore
+
+# Build dependencies
+dist.do
+node_module
+
+# Environment (contains sensitive data)
+*.env
+
+# Misc
+.eslintrc.js
+.prettierrc
+README.md
